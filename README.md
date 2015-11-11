@@ -77,6 +77,7 @@ These apply to real life, as well.
 * Must apply "good programming style" learned in class
     * Functions should be "short" (see [Sandi Metz's rules for developers](http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers))
     * Optimize for readability
+        * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
     * For projects, use Object-Oriented Programming
 * Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor)
 * Bonus points for:
@@ -152,7 +153,7 @@ These apply to real life, as well.
 #### Homework
 
 * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* Complete [OOP exercise](https://github.com/advanced-js/oop) throught V4.
+* Complete [OOP exercise](https://github.com/advanced-js/oop) through V4.
 * [Memory V3](https://github.com/advanced-js/memory#v3)
 
 ### Class 4
@@ -169,8 +170,9 @@ These apply to real life, as well.
 
 #### Homework
 
-* [Namespace exercise](https://github.com/advanced-js/namespace)
+* [Learn about AJAX](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax#readme)
 * [Mashup](https://github.com/advanced-js/mashup)
+* Improve your previous assignments
 
 ### Class 5
 
@@ -265,7 +267,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+    * [Recommended resources](http://hackerhours.org/resources.html#github)
 * GitHub Pages
     * [Official site](http://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
